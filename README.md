@@ -34,9 +34,14 @@ This is a simple React app that allows users to increment and decrement a counte
 
 ## Screenshots
 
-Here is a GIF showing the stopwatch in action:
+Below are screenshots showing the app in action:
+
+- **Increment:** The counter value increases when the Increment button is clicked.
 
 ![Stopwatch GIF][increment]
+
+- **Decrement:** The counter value decreases when the Decrement button is clicked.
+
 ![Stopwatch GIF][decrement]
 
 ## Usage
